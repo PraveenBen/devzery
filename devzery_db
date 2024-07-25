@@ -1,0 +1,3 @@
+1,Login Functionality,Verify user can log in with valid credentials,PASS,5,User Log In,Medium,2024-07-25 21:34:25.3572
+2,Password Reset,Ensure password reset email is sent and new password works,FAIL,5,Password,High,2024-07-25 21:34:25.3572
+3,User Registration,Check if new users can register successfully,Select,5,Onboarding,Low,2024-07-25 21:34:25.3572
