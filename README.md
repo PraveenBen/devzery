@@ -1,6 +1,8 @@
 -Add database in Postgre using pgAdmin4
+
 -Locate devzery/backend, update postresql server password 
    -open terminal type command 'flask run'
+
 -locate devzery/frontend 
    -open terminal typr command 'npm start'
 
